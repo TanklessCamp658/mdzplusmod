@@ -2,19 +2,19 @@
 <list>
 	<item>
 		<id>1</id>
-		<name>Конс. бобы</name>
+		<name>Конс. Саггети</name>
 	</item>
 	<item>
 		<id>2</id>
-		<name>Конс. тунец</name>
+		<name>Шоколадка</name>
 	</item>
 	<item>
 		<id>3</id>
-		<name>Тушенка</name>
+		<name>Персики</name>
 	</item>
 	<item>
 		<id>4</id>
-		<name>Рис</name>
+		<name>Тушенные Бобы</name>
 	</item>
 	<item>
 		<id>5</id>
@@ -30,15 +30,15 @@
 	</item>
 	<item>
 		<id>8</id>
-		<name>Pipsi</name>
+		<name>Лимонад</name>
 	</item>
 	<item>
 		<id>9</id>
-		<name>Spite</name>
+		<name>Арбузный Сок</name>
 	</item>
 	<item>
 		<id>10</id>
-		<name>Квас</name>
+		<name>Балтика 9</name>
 	</item>
 	<item>
 		<id>11</id>
@@ -166,7 +166,7 @@
 	</item>
 	<item>
 		<id>42</id>
-		<name>Охотничий нож</name>
+		<name>Бандитский нож</name>
 	</item>
 	<item>
 		<id>43</id>
@@ -230,7 +230,7 @@
 	</item>
 	<item>
 		<id>58</id>
-		<name>Патроны 22 калибра</name>
+		<name>Патроны 22 Lr</name>
 	</item>
 	<item>
 		<id>59</id>
@@ -322,7 +322,7 @@
 
 	<item>
 		<id>151</id>
-		<name>Пистолет FNX</name>
+		<name>Феникс</name>
 	</item>
 	<item>
 		<id>152</id>
@@ -334,23 +334,23 @@
 	</item>
 	<item>
 		<id>154</id>
-		<name>Иж-43</name>
+		<name>Тоз-34</name>
 	</item>
 	<item>
 		<id>155</id>
-		<name>Ружье Ремингтон</name>
+		<name>Mossberg 590 Tactical</name>
 	</item>
 	<item>
 		<id>156</id>
-		<name>Винтовка Мосина</name>
+		<name>M70 Тундра</name>
 	</item>
 	<item>
 		<id>157</id>
-		<name>СКС</name>
+		<name>Сайга-Mk</name>
 	</item>
 	<item>
 		<id>158</id>
-		<name>Карабин М4</name>
+		<name>Ar-15</name>
 	</item>
 	<item>
 		<id>159</id>
@@ -358,7 +358,7 @@
 	</item>
 	<item>
 		<id>160</id>
-		<name>AK-74</name>
+		<name>Ak-12</name>
 	</item>
 	<item>
 		<id>161</id>
@@ -366,7 +366,7 @@
 	</item>
 	<item>
 		<id>162</id>
-		<name>L85</name>
+		<name>Famas</name>
 	</item>
 	<item>
 		<id>163</id>
@@ -386,7 +386,7 @@
 	</item>
 	<item>
 		<id>167</id>
-		<name>Репитер</name>
+		<name>Marlin</name>
 	</item>
 	<item>
 		<id>168</id>
@@ -398,36 +398,36 @@
 	</item>
 	<item>
 		<id>170</id>
-		<name>Глок</name>
+		<name>Cz-75</name>
 	</item>
 	<item>
 	<id>171</id>
-	<name>Обрез ружья ИЖ-43</name>
+	<name>Обрез ружья Тоз-34</name>
 </item>
 
 <item>
 	<id>172</id>
-	<name>Обрез винтовки Мосина</name>
+	<name>Обрез М70 тундры</name>
 </item>
 
 <item>
 	<id>173</id>
-	<name>UMP-45</name>
+	<name>Skorpion evo3</name>
 </item>
 
 <item>
 	<id>174</id>
-	<name>РПК</name>
+	<name>РПК-74</name>
 </item>
 
 <item>
 	<id>175</id>
-	<name>FN-CAL</name>
+	<name>FN-Scar</name>
 </item>
 
 <item>
 	<id>176</id>
-	<name>Кольт с гравировкой</name>
+	<name>Walther p99</name>
 </item>
 	<item>
 		<id>200</id>
@@ -523,11 +523,11 @@
 	</item>
 	<item>
 		<id>262</id>
-		<name>Сварочная маска</name>
+		<name>Бандитский капюшон</name>
 	</item>
 	<item>
 		<id>263</id>
-		<name>Шлем «Горка»</name>
+		<name>Шлем «Штурм»</name>
 	</item>
 	<item>
 		<id>264</id>
@@ -559,7 +559,7 @@
 	</item>
 	<item>
 		<id>303</id>
-		<name>Штаны «Горка»</name>
+		<name>Штаны «Штурм»</name>
 	</item>
 	<item>
 		<id>304</id>
@@ -567,11 +567,11 @@
 	</item>
 	<item>
 		<id>305</id>
-		<name>Штаны медика</name>
+		<name>Штаны Химзащиты</name>
 	</item>
 	<item>
 		<id>306</id>
-		<name>Охотничьи штаны</name>
+		<name>Бандитские штаны</name>
 	</item>
 	<item>
 		<id>350</id>
@@ -595,7 +595,7 @@
 	</item>
 	<item>
 		<id>355</id>
-		<name>Куртка «Горка»</name>
+		<name>Куртка «Штурм»</name>
 	</item>
 	<item>
 		<id>356</id>
@@ -611,7 +611,7 @@
 	</item>
 	<item>
 		<id>359</id>
-		<name>Куртка медика</name>
+		<name>Плащ Химзащиты</name>
 	</item>
 	<item>
 		<id>360</id>
@@ -631,7 +631,7 @@
 	</item>
 	<item>
 		<id>364</id>
-		<name>Куртка охотник</name>
+		<name>Плащ бандита</name>
 	</item>
 		<item>
 		<id>365</id>
@@ -655,11 +655,11 @@
 	</item>
 		<item>
 		<id>404</id>
-		<name>Кевларовый жилет</name>
+		<name>Штурмовой жилет</name>
 	</item>
 	<item>
 		<id>450</id>
-		<name>Городской рюкзак</name>
+		<name>Походный рюкзак</name>
 	</item>
 	<item>
 		<id>451</id>
@@ -687,7 +687,7 @@
 	</item>
 	<item>
 		<id>457</id>
-		<name>Туристический рюкзак</name>
+		<name>Штурмовой рюкзак</name>
 	</item>
 
 
@@ -765,22 +765,22 @@
 
 <item>
 	<id>177</id>
-	<name>AUG</name>
+	<name>Hk-G36 C</name>
 </item>
 
 <item>
 	<id>178</id>
-	<name>Сайга-12К</name>
+	<name>AA12</name>
 </item>
 
 <item>
 	<id>179</id>
-	<name>MAC-10</name>
+	<name>Cr-75</name>
 </item>
 
 <item>
 	<id>180</id>
-	<name>Обрез винчестера</name>
+	<name>Обрез Marlin</name>
 </item>
 
 
@@ -813,7 +813,7 @@
 
 <item>
 	<id>181</id>
-	<name>ПМ</name>
+	<name>Иж-70</name>
 </item>
 
 <item>
@@ -823,7 +823,7 @@
 
 <item>
 	<id>183</id>
-	<name>Бизон</name>
+	<name>ПП Витязь</name>
 </item>
 
 <item>
@@ -833,12 +833,12 @@
 
 <item>
 	<id>185</id>
-	<name>ВСС</name>
+	<name>AC-Val</name>
 </item>
 
 <item>
 	<id>186</id>
-	<name>СВ-98</name>
+	<name>Двл-10</name>
 </item>
 
 <item>
@@ -950,7 +950,7 @@ Hello from Cannedbits
 
 <item>
 	<id>189</id>
-	<name>Дигл</name>
+	<name>Smith & wetsson Model560</name>
 </item>
 
 <item>
@@ -960,7 +960,7 @@ Hello from Cannedbits
 
 <item>
 	<id>211</id>
-	<name>Катана</name>
+	<name>Мачете</name>
 </item>
 
 <item>

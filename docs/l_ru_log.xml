@@ -2,15 +2,15 @@
 <list>
 	<text>
 		<id>1</id>
-		<name>Кровотечение остановилось.</name>
+		<name>Кровь не течет.</name>
 	</text>
 	<text>
 		<id>2</id>
-		<name>Я чувствую себя хорошо.</name>
+		<name>Вроде по лучше.</name>
 	</text>
 	<text>
 		<id>3</id>
-		<name>Я чувствую, как теряю кровь.</name>
+		<name>Я теряю кровь.</name>
 	</text>
 	<text>
 		<id>4</id>
@@ -18,7 +18,7 @@
 	</text>
 	<text>
 		<id>5</id>
-		<name>Я умираю от голода.</name>
+		<name>Надо перекусить.</name>
 	</text>
 	<text>
 		<id>6</id>
@@ -26,7 +26,7 @@
 	</text>
 	<text>
 		<id>7</id>
-		<name>Я нашел кое-что в этом багажнике.</name>
+		<name>Что то есть.</name>
 	</text>
 	<text>
 		<id>8</id>
@@ -34,7 +34,7 @@
 	</text>
 	<text>
 		<id>9</id>
-		<name>Боеприпасы закончились.</name>
+		<name>нет потронов.</name>
 	</text>
 	<text>
 		<id>10</id>
@@ -94,7 +94,7 @@
 	</text>
 	<text>
 		<id>37</id>
-		<name>Переливание крови завершено.</name>
+		<name>Перелил кровь.</name>
 	</text>
 	<text>
 		<id>38</id>
@@ -110,7 +110,7 @@
 	</text>
 	<text>
 		<id>42</id>
-		<name>Переливание физраствора завершено.</name>
+		<name>Перелил физраствор.</name>
 	</text>
 	<text>
 		<id>44</id>
@@ -182,7 +182,7 @@
 	</text>
 	<text>
 		<id>63</id>
-		<name>Нож поломался.</name>
+		<name>Лезвие сломано.</name>
 	</text>
 	<text>
 		<id>64</id>
@@ -270,7 +270,7 @@
 	</text>
 	<text>
 		<id>101</id>
-		<name>Хорошо, я постою на страже.</name>
+		<name>Постою прикрою.</name>
 	</text>
 	<text>
 		<id>102</id>
@@ -290,7 +290,7 @@
 	</text>
 	<text>
 		<id>106</id>
-		<name>Черт, у него пистолет!</name>
+		<name>Черт, у него ствол!</name>
 	</text>
 	<text>
 		<id>107</id>
@@ -298,15 +298,15 @@
 	</text>
 	<text>
 		<id>108</id>
-		<name>Быстрей, сюда!</name>
+		<name>Все сюда,!</name>
 	</text>
 	<text>
 		<id>109</id>
-		<name>Получи!</name>
+		<name>Стреляй в него!</name>
 	</text>
 	<text>
 		<id>110</id>
-		<name>Я тебя вижу!</name>
+		<name>Вон он!</name>
 	</text>
 	<text>
 		<id>111</id>
